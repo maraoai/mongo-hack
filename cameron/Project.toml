@@ -1,0 +1,8 @@
+[deps]
+Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
+LLMTextAnalysis = "a88142f3-a164-49e9-925a-9408902b6922"
+Mongoc = "4fe8b98c-fc19-5c23-8ec2-168ff83495f2"
+MultivariateStats = "6f286f6a-111f-5878-ab1e-185364afe411"
+Parquet = "626c502c-15b0-58ad-a749-f091afb673ae"
+Parquet2 = "98572fba-bba0-415d-956f-fa77e587d26d"
+PromptingTools = "670122d1-24a8-4d70-bfce-740807c42192"
